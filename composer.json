@@ -13,6 +13,6 @@
     "dompdf/dompdf": "^0.8",
     "michelf/php-markdown": "^1.8",
     "phpdocumentor/reflection-docblock": "~4",
-    "symfony/finder": "~3|~4"
+    "symfony/finder": "~3|~4|~5"
   }
 }
